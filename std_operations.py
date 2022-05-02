@@ -3,3 +3,6 @@ def Add(a,b):
 
 def Subtract(a,b):
     return a - b
+
+def Half(a):
+    return a*0.5
