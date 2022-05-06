@@ -1,3 +1,4 @@
+[![My First Workflow](https://github.com/brigitta-b/calculator/actions/workflows/your-first-workflow.yml/badge.svg)](https://github.com/brigitta-b/calculator/actions/workflows/your-first-workflow.yml)
 
 # Project "Calculator"
 
